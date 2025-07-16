@@ -1,0 +1,14 @@
+{
+  "domain": "podcast_hacs",
+  "name": "Podcast player",
+  "config_flow": true,
+  "documentation": "https://github.com/taskinen/podcast-hacs",
+  "requirements": ["feedparser>=6.0.0"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@taskinen"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling"
+}

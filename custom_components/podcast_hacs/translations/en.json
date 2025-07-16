@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Podcast HACS Configuration",
+                "description": "Configure your podcast RSS feed and speaker",
+                "data": {
+                    "rss_url": "RSS Feed URL",
+                    "speaker_entity": "Speaker Entity"
+                }
+            }
+        },
+        "error": {
+            "invalid_rss_url": "Invalid RSS feed URL or no episodes found",
+            "cannot_connect": "Cannot connect to RSS feed",
+            "invalid_speaker": "Invalid speaker entity"
+        }
+    }
+}

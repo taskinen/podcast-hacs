@@ -1,0 +1,6 @@
+{
+    "name": "Podcast player",
+    "render_readme": true,
+    "domains": ["podcast_hacs"],
+    "homeassistant": "2024.1.0"
+}
